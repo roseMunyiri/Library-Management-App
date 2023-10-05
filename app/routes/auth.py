@@ -56,6 +56,7 @@ class RegistrationForm(FlaskForm):
 
 
 # Login  route
+@bp.route('/')
 @bp.route('/login', methods=['GET', 'POST'])
 def login():
     """
@@ -76,9 +77,8 @@ def login():
     return render_template('auth/login.html', form=form)
 
 # Home route
-@bp.route('/')
 @bp.route('/home')
-# @login_required
+@login_required
 def home():
     """
     Homepage
@@ -111,3 +111,13 @@ def register():
         return render_template('auth/register.html', form=form)
     
     return render_template('auth/register.html', form=form)
+
+@bp.route('/logout')
+@login_required  
+def logout():
+    """
+    Logout route
+    """
+    logout_user() 
+    flash('Logged out successfully', 'success')
+    return redirect(url_for('auth.login'))

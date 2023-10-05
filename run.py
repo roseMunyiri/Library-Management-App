@@ -1,3 +1,5 @@
+print(__name__)
+
 from app import create_app
 
 
