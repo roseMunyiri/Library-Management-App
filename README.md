@@ -92,6 +92,9 @@ flask db upgrade
   - home.html for viewing the homepage
   - register.html for user registration
   - login.html for member login
+ 
+    ![login](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/2084a338-8fea-495d-a819-c8f9ecc28a19)
+
 
 - **`static/`**
   Contains:
