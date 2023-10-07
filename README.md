@@ -104,8 +104,13 @@ sets/101321558/6406e4b5-945b-4257-b774-3c988c2e91da)
 - **`transaction/`**
   Contains:
 - issue_book.html for issuing books to members
+![issue_book](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/dbd9e9e3-068e-4bf0-8c5a-20d3365081d8)
+  
 - return_book.html for returning books to library
+![return_book](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/d9bfeee8-32d7-4734-877d-cf9be130a81f)
+  
 - view_trandactions.html for viewing all transations
+![view_transactioons](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/85149604-1830-42fd-95d9-a0c4a4f735da)
 
 - **`auth/`**
   Contains:
