@@ -116,7 +116,12 @@ sets/101321558/6406e4b5-945b-4257-b774-3c988c2e91da)
   Contains:
 
   - home.html for viewing the homepage
+    ![Home](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/0510084c-b3fb-4915-8fa6-b9dc08fb389f)
+
   - register.html for user registration
+  ![Register](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/34e5a337-bcf3-4926-8e0c-9fd3c1a6e3e9)
+
+    
   - login.html for member login
  
     ![login](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/2084a338-8fea-495d-a819-c8f9ecc28a19)
