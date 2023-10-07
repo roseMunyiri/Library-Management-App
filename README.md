@@ -67,10 +67,20 @@ flask db upgrade
 - **`book/`**
   Contains:
 - add_books.html for adding books to library
+ ![add_books](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/098c8575-c783-4bf1-a89b-66dd897a0bfb)
+
 - import_books.html for importing books using the frappe API
+  ![Import_books](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/47acf3e0-986a-45b2-8c18-2c803254006d)
+
 - delete_books.html for deleting books from the library
+ ![delete_books](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/8873b28b-f8b1-4596-be93-5f3958a564e3)
+
 - search_books.html for searching books in the library
+ ![search_books](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/8ff3c4b0-3f7e-40ad-aea0-bf9122590ba1)
+  
 - update_books.html for updating book details
+![update_books](https://github.com/roseMunyiri/Library-Management-App/as
+sets/101321558/6406e4b5-945b-4257-b774-3c988c2e91da)
 
 - **`member/`**
   Contains:
