@@ -85,10 +85,21 @@ sets/101321558/6406e4b5-945b-4257-b774-3c988c2e91da)
 - **`member/`**
   Contains:
 - add_members.html for adding members to the library
+  ![add_member](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/17c5a879-32f8-4302-bb56-fefab7e731a4)
+
 - all_members.html for viewing all members in the library
+  ![all_members](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/2f305f11-0a1a-4885-aaf9-c291f277a438)
+
 - delete_members.html for delting members from the library
+  ![delete_membersPNG](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/6e69ca39-995a-4da2-a637-4b8cef2ccb31)
+  
 - search_members.html for searching for members in the library
+ ![search_members](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/79cd6b9f-a378-48fa-a335-d0715b48ed63)
+  
 - update_members.html for updating member details
+  ![update_members](https://github.com/roseMunyiri/Library-Management-App/assets/101321558/1e514667-04ce-451d-8c64-cf6c18cfe418)
+02a8fd2a7)
+
 
 - **`transaction/`**
   Contains:
